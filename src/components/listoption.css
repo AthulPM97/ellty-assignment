@@ -1,18 +1,18 @@
 .listoption {
-    width: 100%;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
-.option-text{
-    padding-top: 12px;
-    padding-bottom: 12px;
-    padding-left: 22px;
+.option-text {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 22px;
 }
 
 .checkbox-container {
-    padding-top: 12px;
-    padding-bottom: 12px;
-    padding-right: 20px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-right: 20px;
 }
