@@ -5,36 +5,28 @@ Getting Started
 
 To set up the project locally, follow these steps:
 
-    Clone the repository:
-
-    bash
-
+```Clone the repository:
 git clone <repository-url>
+```
 
 Install dependencies:
 
+```
 npm install
+```
 
 Start the development server:
-
-arduino
-
-    npm run dev
+```
+npm run dev
+```
 
 Building the App
 
 To build the application, run:
-
-arduino
-
+```
 npm run build
+```
 
 Deployment
 
 The application is deployed on Firebase.
-Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request with any improvements or bug fixes.
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
