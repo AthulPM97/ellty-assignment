@@ -1,8 +1,40 @@
-# React + Vite
+React + Vite Project Deployed on Firebase
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a React application built using Vite and deployed on Firebase.
+Getting Started
 
-Currently, two official plugins are available:
+To set up the project locally, follow these steps:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+    Clone the repository:
+
+    bash
+
+git clone <repository-url>
+
+Install dependencies:
+
+npm install
+
+Start the development server:
+
+arduino
+
+    npm run dev
+
+Building the App
+
+To build the application, run:
+
+arduino
+
+npm run build
+
+Deployment
+
+The application is deployed on Firebase.
+Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request with any improvements or bug fixes.
+License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
